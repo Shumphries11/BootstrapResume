@@ -1,9 +1,10 @@
-.jumbotron {
+.jumbotron-fluid {
     color: white;
 }
 
 #contact-info {
     color: black;
     text-align: center;
+    background-color: white;
 }
 
